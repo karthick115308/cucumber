@@ -1,0 +1,6 @@
+managers\PageObjectManager.class
+pageObject\CheckoutPage.class
+managers\FileReaderManager.class
+dataProvider\ConfigFileReader.class
+managers\WebDriverManager.class
+pageObject\HomePage.class
